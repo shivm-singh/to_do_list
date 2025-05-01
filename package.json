@@ -1,13 +1,12 @@
 {
-  "homepage": "https://shivm-singh.github.io/to_do_list/",
+  
 
   "name": "dice_roll",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" ,
+ 
 
     "dev": "vite",
     "build": "vite build",
